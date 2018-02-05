@@ -5,6 +5,7 @@ public class aaa {
 
 	public static void main(String[] args) {
 		int al;
+		String aa= "第二次修改";
 //		double sum=9;
 //		int finalSum=(int) sum;
 //		int finalTemp=0;
