@@ -4,6 +4,7 @@ import java.util.List;
 public class aaa {
 
 	public static void main(String[] args) {
+		int al;
 //		double sum=9;
 //		int finalSum=(int) sum;
 //		int finalTemp=0;
